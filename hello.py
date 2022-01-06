@@ -1,2 +1,1 @@
-print("Hola mundo esto es main!!!")
-
+print(f"Hola mundo")
